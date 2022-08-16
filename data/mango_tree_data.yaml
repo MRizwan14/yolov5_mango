@@ -1,0 +1,9 @@
+train: /content/drive/My Drive/FYP/Fyp-mango/images/train/ 
+val:  /content/drive/My Drive/FYP/Fyp-mango/images/val/
+test: /content/drive/My Drive/FYP/Fyp-mango/images/test/
+
+# number of classes
+nc: 1
+
+# class names
+names: ["tree"]
